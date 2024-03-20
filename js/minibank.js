@@ -11,4 +11,4 @@ const checkSaldo = () => {
     } else {
         text.innerText = "Feil pinkode! Prøv igjen!";
     }
-}c
+}
